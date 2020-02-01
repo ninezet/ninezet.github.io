@@ -1,0 +1,51 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slider img {
+    width: 1920px;
+    height: 1280px;
+}
+
+.parallax-cotainer {
+    height: 20%;
+}
+
+.parallax img {
+    height: 1920px;
+    width: 1280px;
+    /* filter: grayscale(1); */
+    /* opacity: 0.5 !important; */
+}
+
+.clients img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.8));
+}
+
+.about img {
+    width: 1000px;
+    height: 200px;
+}
+
+.price h5 {
+    font-size: 44px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.brand-logo img {
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 160px;
+    height: 45px;
+
+}
+
+.product img {
+    width: 400px;
+    height: 200px;
+}
